@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d59c9f08-6934-433f-835d-6e072a6562df" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sum_of_Nums.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sum_of_Nums.java" afterDir="false" />
-    </list>
+    <list default="true" id="d59c9f08-6934-433f-835d-6e072a6562df" name="Changes" comment="Sixth commit,but it will be first in the new branch" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -65,6 +62,21 @@
       <option name="presentableId" value="Default" />
       <updated>1669044738161</updated>
     </task>
+    <task id="LOCAL-00001" summary="Changed number again">
+      <created>1669050732075</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1669050732075</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Sixth commit,but it will be first in the new branch">
+      <created>1669052773570</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1669052773570</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -77,5 +89,25 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Changed number again" />
+    <MESSAGE value="Sixth commit,but it will be first in the new branch" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sixth commit,but it will be first in the new branch" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Sum_of_Nums.java</url>
+          <line>1</line>
+          <properties class="Sum_of_Nums" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
