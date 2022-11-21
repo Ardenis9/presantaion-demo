@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d59c9f08-6934-433f-835d-6e072a6562df" name="Changes" comment="" />
+    <list default="true" id="d59c9f08-6934-433f-835d-6e072a6562df" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/Sum_of_Nums.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sum_of_Nums.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
